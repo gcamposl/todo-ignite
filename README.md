@@ -1,4 +1,4 @@
-## Todo List - To-do list! ✅
+## To-do list! ✅
 
 ---
 
