@@ -1,4 +1,4 @@
-## TodoEnglish - Todo para uma escola de inglês 💻
+## TodoEnglish - To-do list! ✅
 
 ---
 
