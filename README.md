@@ -1,4 +1,4 @@
-## TodoEnglish - To-do list! ✅
+## Todo List - To-do list! ✅
 
 ---
 
